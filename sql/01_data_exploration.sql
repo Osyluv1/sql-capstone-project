@@ -1,0 +1,4 @@
+-- SQL Capstone Project
+-- Data Exploration Queries
+-- Author: Osinachi Love Godwin
+-- Date: June 2026
