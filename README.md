@@ -60,11 +60,17 @@ The two datasets are logically linked using the id field.
 Tools & Technologies
 
 PostgreSQL
+
 pgAdmin 4
+
 SQL
+
 Excel
+
 Microsoft Word
+
 Microsoft PowerPoint
+
 GitHub
 
 Key Findings
@@ -104,5 +110,3 @@ License
 
 This project is licensed under the MIT License.
 
-License
-This project is licensed under the MIT License.
