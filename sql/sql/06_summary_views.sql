@@ -1,4 +1,0 @@
--- SQL Capstone Project
--- Data Quality Assessment
--- Author: Osinachi Love Godwin
--- Date: June 2026
