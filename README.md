@@ -1,8 +1,13 @@
 SQL Capstone Project
+
 Donor and Donation Data Analysis Using SQL
+
 Author: Osinachi Love Godwin
+
 Role: Data Analyst
+
 Date: June 2026
+
 Database Management System (DBMS): PostgreSQL
 
 Project Overview
